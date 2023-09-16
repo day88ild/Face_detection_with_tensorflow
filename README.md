@@ -44,6 +44,12 @@ but here you can find a link to it on Kaggle (https://www.kaggle.com/datasets/fa
 
 3. **Inference**: Run `inference.py` to perform real-time face detection using a trained model.
 
+
+## Notes
+
+This project uses pure TensorFlow for experimentation purposes.
+The project structure follows a clear organization of data, code, and trained models.
+
 ## Dependencies
 
 Ensure you have the required Python packages installed by running:
@@ -51,7 +57,4 @@ Ensure you have the required Python packages installed by running:
 ```bash
 pip install -r requirements.txt
 
-## Notes
 
-This project uses pure TensorFlow for experimentation purposes.
-The project structure follows a clear organization for data, code, and trained models.
